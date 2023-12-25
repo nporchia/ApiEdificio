@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ed1441f-d5f4-4dc7-bf06-964b1c94ed7b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../API_EDIFICIO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_EDIFICIO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/DeleteModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/DeleteModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/areasComunes/AreaComunList.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/areasComunes/AreaComunList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/edificio/Edificio.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/edificio/Edificio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/reclamos/CrearReclamo.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/reclamos/CrearReclamo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/reclamos/ImageCarrousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/reclamos/ImageCarrousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/reclamos/Reclamo.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/reclamos/Reclamo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/reclamos/ReclamoContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/reclamos/ReclamoContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/reclamos/ReclamoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/reclamos/ReclamoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/unidades/Unidad.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/unidades/Unidad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/unidades/UnidadesList.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/unidades/UnidadesList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/unidades/UpdateUnidad.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/unidades/UpdateUnidad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/usuarios/Usuario.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/usuarios/Usuario.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuevaera/src/components/usuarios/UsuariosList.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuevaera/src/components/usuarios/UsuariosList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/controller/UsuarioController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/controller/UsuarioController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/model/dao/usuario/UsuarioDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/model/dao/usuario/UsuarioDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/model/entity/usuario/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/model/entity/usuario/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/service/usuario/IUsuarioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/service/usuario/IUsuarioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/service/usuario/UsuarioServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/java/api/curso/tp_spring/app/service/usuario/UsuarioServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tp_spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../tp_spring/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <list id="dc760bdb-e376-455e-bd57-5aedaa3d1ee0" name="Changes by nicpo" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2VJatMDM9bZZrRj3PyjqUNE4b2Q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lucasmartinez/Desktop/API_EDIFICIO/tp_frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\luqi_\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ed1441f-d5f4-4dc7-bf06-964b1c94ed7b" name="Changes" comment="" />
+      <created>1694556851328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694556851328</updated>
+      <workItem from="1694556852212" duration="345000" />
+      <workItem from="1694557207513" duration="7872000" />
+      <workItem from="1694565337520" duration="5490000" />
+      <workItem from="1695089818156" duration="2320000" />
+      <workItem from="1699206493338" duration="363000" />
+      <workItem from="1699206927175" duration="5161000" />
+      <workItem from="1699215813662" duration="33000" />
+      <workItem from="1699886060753" duration="16276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:tailwindcss" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

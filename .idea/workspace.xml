@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85dcd9e3-1caa-411f-9b4e-ce88c9fed69c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_frontend/nuevaera/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/tp_frontend/nuevaera/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/tp_spring/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tp_spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tp_spring/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__areasComunes_migration.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__edificios_migration.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__imagen_migration.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__reclamos_migration.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__unidadUsuario_migration.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__unidades.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp_spring/src/main/resources/db/migration/V1__usuarios_migration.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Y7bkSPP3ZanLAu7h7QBUPjVuPm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/lucasmartinez/Desktop/Coding/API_EDIFICIO",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="API_EDIFICIO" />
+      <option name="SPRING_BOOT_MAIN_CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85dcd9e3-1caa-411f-9b4e-ce88c9fed69c" name="Changes" comment="" />
+      <created>1699879708311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699879708311</updated>
+      <workItem from="1699879710339" duration="98000" />
+      <workItem from="1700221067680" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

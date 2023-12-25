@@ -1,0 +1,38 @@
+version: '3.8'
+services:
+  db:
+    image: mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: sistemareclamosnuevaera
+      MYSQL_USER: apiteam
+      MYSQL_PASSWORD: nuevaera
+    ports:
+      - "3306:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 10s
+      retries: 4
+  backend:
+    build: ./tp_spring
+    ports:
+      - "8080:8080"
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://db:3306/sistemareclamosnuevaera
+      SPRING_DATASOURCE_USERNAME: apiteam
+      SPRING_DATASOURCE_PASSWORD: nuevaera
+      SPRING_MAIL_USERNAME: info.sistemasnuevaera@gmail.com
+      SPRING_MAIL_PASSWORD: ifniyroahsgpsaci  
+      SPRING_MAIL_HOST: smtp.gmail.com
+      SPRING_MAIL_PORT: 587
+      SPRING_MAIL_SMTP_AUTH: true
+      SPRING_MAIL_SMTP_STARTTLS_ENABLE: true
+    depends_on:
+      db:
+        condition: service_healthy
+  frontend:
+    build: ./tp_frontend/nuevaera
+    ports:
+      - "3000:3000"
+  
